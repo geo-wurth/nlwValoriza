@@ -23,4 +23,4 @@ Projeto do NextLevelWeek
 
     [ X ] Não é permitido cadastrar elogios para usuários inválidos
 
-    [   ] O usuário precisa estar cadastrado na aplicação
+    [ X ] O usuário precisa estar cadastrado na aplicação
