@@ -4,7 +4,7 @@ Projeto do NextLevelWeek
 ## Regras
 
 - Cadastro de usuário
-- [x] Não é permitido cadastrar mais de um usuário com o mesmo email
+-    [x] Não é permitido cadastrar mais de um usuário com o mesmo email
 - [x] Não é permitido cadastrar usuário sem email
 
 - Cadastro de TAG
